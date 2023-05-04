@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    alert('🙋‍♂️ Satria Pamungkas! 🤪  ');
+    alert('🙋‍♂️ N0obCodingers! 🤪  ');
 
     alert('The goal of the game is to move the squares by clicking on them, arrange them by numbers using a free window, while taking the least number of steps.');
     
